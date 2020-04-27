@@ -35,5 +35,5 @@ from life import events
 if self.future.contains(events.good) and self.isDead:
     self.regret("death")
 
-while 1 == 0:
+while 1 == 1:
     question.ponder()
